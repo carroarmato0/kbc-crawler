@@ -2,6 +2,10 @@
 
 class Helpers {
 
+  /**
+  * Recursively loop through arrays and output how deep the deepest array is.
+  * @return int Minimal depth is 1
+  */
   public static function array_depth(array $array) {
     $max_depth = 1;
 
