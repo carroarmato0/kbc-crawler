@@ -6,4 +6,4 @@ The inspiration came from me wanting to be able to get an overview of my incomes
 feed them into some financial managing application to be able to generate charts and statistics.
 
 
-Contributions are welcome.
+Contributions are welcome (it doesn't do much at the moment).
