@@ -1,0 +1,9 @@
+[my_account]
+card      = '4242 4242 4242 4242'
+account[] = 'BE19 1111 1111 1111 EUR'
+account[] = 'BE43 2222 2222 2222 EUR'
+account[] = 'BE41 3333 3333 3333 EUR'
+
+[my_other_account]
+card      = '4242 4242 4242 4242'
+account[] = 'BE19 1111 1111 1111 EUR'
